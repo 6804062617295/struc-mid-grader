@@ -6,4 +6,4 @@ int main(){
 	printf("%d",b);
 }
 
-//I cant reconize is this one is 101 or not
+//I cant reconize is this one 101 or not
